@@ -1,0 +1,31 @@
+F:\Proyecto de Grado\el_esfuerzo\Datos\bin\Debug\Datos.dll
+F:\Proyecto de Grado\el_esfuerzo\Datos\bin\Debug\Datos.pdb
+F:\Proyecto de Grado\el_esfuerzo\Datos\obj\Debug\Datos.dll
+F:\Proyecto de Grado\el_esfuerzo\Datos\obj\Debug\Datos.pdb
+J:\Proyecto de Grado\el_esfuerzo\Datos\bin\Debug\Datos.dll
+J:\Proyecto de Grado\el_esfuerzo\Datos\bin\Debug\Datos.pdb
+J:\Proyecto de Grado\el_esfuerzo\Datos\obj\Debug\Datos.dll
+J:\Proyecto de Grado\el_esfuerzo\Datos\obj\Debug\Datos.pdb
+J:\Proyecto de Grado\el_esfuerzo\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\Proyecto de Grado\el_esfuerzo\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Cosultal_Esfuerzo\Datos\bin\Debug\Datos.dll
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Cosultal_Esfuerzo\Datos\bin\Debug\Datos.pdb
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Cosultal_Esfuerzo\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Cosultal_Esfuerzo\Datos\obj\Debug\Datos.dll
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Cosultal_Esfuerzo\Datos\obj\Debug\Datos.pdb
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\Datos\bin\Debug\Datos.dll
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\Datos\bin\Debug\Datos.pdb
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\Datos\obj\Debug\Datos.dll
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\Datos\obj\Debug\Datos.pdb
+F:\Proyecto de Grado\Consultas\Datos\bin\Debug\Datos.dll
+F:\Proyecto de Grado\Consultas\Datos\bin\Debug\Datos.pdb
+F:\Proyecto de Grado\Consultas\Datos\obj\Debug\Datos.dll
+F:\Proyecto de Grado\Consultas\Datos\obj\Debug\Datos.pdb
+G:\Consultas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+G:\Consultas\Datos\obj\Debug\Datos.dll
+G:\Consultas\Datos\obj\Debug\Datos.pdb
+G:\Consultas\Datos\bin\Debug\ferreteria.accdb
+G:\Consultas\Datos\bin\Debug\Datos.dll.config
+G:\Consultas\Datos\bin\Debug\Datos.dll
+G:\Consultas\Datos\bin\Debug\Datos.pdb

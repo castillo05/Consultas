@@ -1,0 +1,45 @@
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\bin\Debug\Consultar Precios.exe.config
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\bin\Debug\Consultar Precios.exe
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\bin\Debug\Consultar Precios.pdb
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\bin\Debug\AccesoLogica.dll
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\bin\Debug\Datos.dll
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\bin\Debug\AccesoLogica.pdb
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\bin\Debug\Datos.pdb
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csprojResolveAssemblyReference.cache
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Form1.resources
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Properties.Resources.resources
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csproj.GenerateResource.Cache
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\obj\Debug\Consultar Precios.exe
+c:\users\ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\obj\Debug\Consultar Precios.pdb
+C:\Users\Ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Productos.resources
+C:\Users\Ferreteria\documents\visual studio 2013\Projects\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Ventana_Principal.resources
+F:\Proyecto de Grado\Consultas\Consultar Precios\bin\Debug\Consultar Precios.exe.config
+F:\Proyecto de Grado\Consultas\Consultar Precios\obj\Debug\Consultar Precios.exe
+F:\Proyecto de Grado\Consultas\Consultar Precios\obj\Debug\Consultar Precios.pdb
+F:\Proyecto de Grado\Consultas\Consultar Precios\bin\Debug\Consultar Precios.exe
+F:\Proyecto de Grado\Consultas\Consultar Precios\bin\Debug\Consultar Precios.pdb
+F:\Proyecto de Grado\Consultas\Consultar Precios\bin\Debug\AccesoLogica.dll
+F:\Proyecto de Grado\Consultas\Consultar Precios\bin\Debug\Datos.dll
+F:\Proyecto de Grado\Consultas\Consultar Precios\bin\Debug\AccesoLogica.pdb
+F:\Proyecto de Grado\Consultas\Consultar Precios\bin\Debug\Datos.pdb
+F:\Proyecto de Grado\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csprojResolveAssemblyReference.cache
+F:\Proyecto de Grado\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Form1.resources
+F:\Proyecto de Grado\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Productos.resources
+F:\Proyecto de Grado\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Properties.Resources.resources
+F:\Proyecto de Grado\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Ventana_Principal.resources
+F:\Proyecto de Grado\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csproj.GenerateResource.Cache
+G:\Consultas\Consultar Precios\bin\Debug\Consultar Precios.exe.config
+G:\Consultas\Consultar Precios\obj\Debug\Consultar Precios.exe
+G:\Consultas\Consultar Precios\obj\Debug\Consultar Precios.pdb
+G:\Consultas\Consultar Precios\bin\Debug\Consultar Precios.exe
+G:\Consultas\Consultar Precios\bin\Debug\Consultar Precios.pdb
+G:\Consultas\Consultar Precios\bin\Debug\AccesoLogica.dll
+G:\Consultas\Consultar Precios\bin\Debug\Datos.dll
+G:\Consultas\Consultar Precios\bin\Debug\AccesoLogica.pdb
+G:\Consultas\Consultar Precios\bin\Debug\Datos.pdb
+G:\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csprojResolveAssemblyReference.cache
+G:\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Form1.resources
+G:\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Productos.resources
+G:\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Properties.Resources.resources
+G:\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Ventana_Principal.resources
+G:\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csproj.GenerateResource.Cache

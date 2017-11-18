@@ -1,0 +1,38 @@
+F:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\AccesoLogica.dll
+F:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\AccesoLogica.pdb
+F:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\Datos.dll
+F:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\MySql.Data.dll
+F:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\Datos.pdb
+F:\Proyecto de Grado\el_esfuerzo\AccesoLogica\obj\Debug\AccesoLogica.csprojResolveAssemblyReference.cache
+F:\Proyecto de Grado\el_esfuerzo\AccesoLogica\obj\Debug\AccesoLogica.dll
+F:\Proyecto de Grado\el_esfuerzo\AccesoLogica\obj\Debug\AccesoLogica.pdb
+J:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\AccesoLogica.dll
+J:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\AccesoLogica.pdb
+J:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\Datos.dll
+J:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\MySql.Data.dll
+J:\Proyecto de Grado\el_esfuerzo\AccesoLogica\bin\Debug\Datos.pdb
+J:\Proyecto de Grado\el_esfuerzo\AccesoLogica\obj\Debug\AccesoLogica.csprojResolveAssemblyReference.cache
+J:\Proyecto de Grado\el_esfuerzo\AccesoLogica\obj\Debug\AccesoLogica.dll
+J:\Proyecto de Grado\el_esfuerzo\AccesoLogica\obj\Debug\AccesoLogica.pdb
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\AccesoLogica\bin\Debug\AccesoLogica.dll
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\AccesoLogica\bin\Debug\AccesoLogica.pdb
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\AccesoLogica\bin\Debug\Datos.dll
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\AccesoLogica\bin\Debug\Datos.pdb
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\AccesoLogica\obj\Debug\AccesoLogica.csprojResolveAssemblyReference.cache
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\AccesoLogica\obj\Debug\AccesoLogica.dll
+C:\Users\Ferreteria\Documents\Visual Studio 2013\Projects\Consultas\AccesoLogica\obj\Debug\AccesoLogica.pdb
+F:\Proyecto de Grado\Consultas\AccesoLogica\bin\Debug\AccesoLogica.dll
+F:\Proyecto de Grado\Consultas\AccesoLogica\bin\Debug\AccesoLogica.pdb
+F:\Proyecto de Grado\Consultas\AccesoLogica\bin\Debug\Datos.dll
+F:\Proyecto de Grado\Consultas\AccesoLogica\bin\Debug\Datos.pdb
+F:\Proyecto de Grado\Consultas\AccesoLogica\obj\Debug\AccesoLogica.csprojResolveAssemblyReference.cache
+F:\Proyecto de Grado\Consultas\AccesoLogica\obj\Debug\AccesoLogica.dll
+F:\Proyecto de Grado\Consultas\AccesoLogica\obj\Debug\AccesoLogica.pdb
+G:\Consultas\AccesoLogica\bin\Debug\ferreteria.accdb
+G:\Consultas\AccesoLogica\bin\Debug\AccesoLogica.dll
+G:\Consultas\AccesoLogica\bin\Debug\AccesoLogica.pdb
+G:\Consultas\AccesoLogica\bin\Debug\Datos.dll
+G:\Consultas\AccesoLogica\bin\Debug\Datos.pdb
+G:\Consultas\AccesoLogica\obj\Debug\AccesoLogica.csprojResolveAssemblyReference.cache
+G:\Consultas\AccesoLogica\obj\Debug\AccesoLogica.dll
+G:\Consultas\AccesoLogica\obj\Debug\AccesoLogica.pdb
