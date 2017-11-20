@@ -43,3 +43,19 @@ G:\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Productos.resources
 G:\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Properties.Resources.resources
 G:\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Ventana_Principal.resources
 G:\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csproj.GenerateResource.Cache
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\bin\Debug\Consultar Precios.exe.config
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\obj\Debug\Consultar Precios.exe
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\obj\Debug\Consultar Precios.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\bin\Debug\ferreteria.accdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\bin\Debug\Consultar Precios.exe
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\bin\Debug\Consultar Precios.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\bin\Debug\AccesoLogica.dll
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\bin\Debug\Datos.dll
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\bin\Debug\AccesoLogica.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\bin\Debug\Datos.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csprojResolveAssemblyReference.cache
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Form1.resources
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Productos.resources
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Properties.Resources.resources
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\obj\Debug\Consultar_Precios.Ventana_Principal.resources
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Consultar Precios\obj\Debug\Consultar Precios.csproj.GenerateResource.Cache

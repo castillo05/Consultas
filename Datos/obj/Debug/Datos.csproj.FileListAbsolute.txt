@@ -29,3 +29,10 @@ G:\Consultas\Datos\bin\Debug\ferreteria.accdb
 G:\Consultas\Datos\bin\Debug\Datos.dll.config
 G:\Consultas\Datos\bin\Debug\Datos.dll
 G:\Consultas\Datos\bin\Debug\Datos.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Datos\bin\Debug\ferreteria.accdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Datos\bin\Debug\Datos.dll.config
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Datos\bin\Debug\Datos.dll
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Datos\bin\Debug\Datos.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Datos\obj\Debug\Datos.dll
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\Datos\obj\Debug\Datos.pdb

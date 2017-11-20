@@ -36,3 +36,11 @@ G:\Consultas\AccesoLogica\bin\Debug\Datos.pdb
 G:\Consultas\AccesoLogica\obj\Debug\AccesoLogica.csprojResolveAssemblyReference.cache
 G:\Consultas\AccesoLogica\obj\Debug\AccesoLogica.dll
 G:\Consultas\AccesoLogica\obj\Debug\AccesoLogica.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\AccesoLogica\bin\Debug\ferreteria.accdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\AccesoLogica\bin\Debug\AccesoLogica.dll
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\AccesoLogica\bin\Debug\AccesoLogica.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\AccesoLogica\bin\Debug\Datos.dll
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\AccesoLogica\bin\Debug\Datos.pdb
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\AccesoLogica\obj\Debug\AccesoLogica.csprojResolveAssemblyReference.cache
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\AccesoLogica\obj\Debug\AccesoLogica.dll
+C:\Users\Recaudacion-C\Documents\GitHub\Consultas\AccesoLogica\obj\Debug\AccesoLogica.pdb
